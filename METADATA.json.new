@@ -1,0 +1,60 @@
+{
+  "name": "Monda",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 24841,
+  "fonts": [
+    {
+      "name": "Monda",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Monda-Bold.ttf",
+      "postScriptName": "Monda-Bold",
+      "fullName": "Monda Bold",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Monda",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Monda-Regular-TTF.ttf",
+      "postScriptName": "Monda-Regular",
+      "fullName": "Monda Regular",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Monda",
+      "style": "normal",
+      "weight": 700,
+      "filename": "MondaBold-Regular.ttf",
+      "postScriptName": "Monda-Bold",
+      "fullName": "Monda Bold",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Monda",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Monda-Regular.ttf",
+      "postScriptName": "Monda-Regular",
+      "fullName": "Monda Regular",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Monda",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Monda-Bold-TTF.ttf",
+      "postScriptName": "Monda-Bold",
+      "fullName": "Monda Bold",
+      "copyright": "Copyright (c) 2011-12 by vernon adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-11-30"
+}

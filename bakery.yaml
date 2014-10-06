@@ -1,0 +1,8 @@
+commit: HEAD
+process_files: [src/Monda-Regular.ufo, src/Monda-Bold.ufo, Monda-Regular.ttf.ttx,
+  Monda-Bold.ttf.ttx, src/Monda-Regular.otf.ttx, src/Monda-Regular-unhinted.ttf.ttx,
+  src/Monda-Bold-unhinted.ttf.ttx, src/Monda-Bold.otf.ttx, src/Monda-Regular-TTF.sfd,
+  src/Monda-Bold.sfd, src/Monda-Regular.sfd, src/Monda-Bold-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
